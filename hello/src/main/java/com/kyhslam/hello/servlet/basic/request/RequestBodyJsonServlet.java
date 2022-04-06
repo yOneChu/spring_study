@@ -1,7 +1,7 @@
-package com.kyhslam.hello.basic.request;
+package com.kyhslam.hello.servlet.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.kyhslam.hello.basic.HelloData;
+import com.kyhslam.hello.servlet.basic.HelloData;
 import org.springframework.util.StreamUtils;
 
 import javax.servlet.ServletException;

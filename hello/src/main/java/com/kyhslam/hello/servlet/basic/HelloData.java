@@ -1,4 +1,4 @@
-package com.kyhslam.hello.basic;
+package com.kyhslam.hello.servlet.basic;
 
 import lombok.Getter;
 import lombok.Setter;

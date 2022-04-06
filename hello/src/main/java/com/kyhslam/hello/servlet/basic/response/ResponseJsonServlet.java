@@ -1,7 +1,7 @@
-package com.kyhslam.hello.basic.response;
+package com.kyhslam.hello.servlet.basic.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.kyhslam.hello.basic.HelloData;
+import com.kyhslam.hello.servlet.basic.HelloData;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

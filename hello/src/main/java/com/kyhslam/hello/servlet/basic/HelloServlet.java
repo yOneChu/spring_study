@@ -1,4 +1,4 @@
-package com.kyhslam.hello.basic;
+package com.kyhslam.hello.servlet.basic;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
