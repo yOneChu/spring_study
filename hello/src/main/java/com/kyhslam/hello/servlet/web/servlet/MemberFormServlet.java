@@ -18,6 +18,9 @@ public class MemberFormServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
+        System.out.println("### servlet/members/new-form ###");
+
         response.setContentType("text/html");
         response.setCharacterEncoding("utf-8");
 
