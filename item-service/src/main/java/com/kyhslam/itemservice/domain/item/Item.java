@@ -13,7 +13,7 @@ public class Item {
     public Item() {
     }
 
-    public Item(Long id, String itemName, Integer price, Integer quantity) {
+    public Item(String itemName, Integer price, Integer quantity) {
         this.id = id;
         this.itemName = itemName;
         this.price = price;
